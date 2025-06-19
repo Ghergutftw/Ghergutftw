@@ -2,7 +2,6 @@
 Interests:
 - Software Engineeer
 - Web
-- Home labs
 
 Currently: Full Stack Developer@GreenSoft
 
