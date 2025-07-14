@@ -1,7 +1,7 @@
 # Hi there 👋
 Interests:
-- Software Engineeer
-- Web
+- Fullstack developer
+- Devops
 
 Currently: Full Stack Developer@GreenSoft
 
